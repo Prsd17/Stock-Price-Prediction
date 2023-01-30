@@ -12,5 +12,8 @@ data. For this project we Extracted Stock data from Yahoo Finance using Python p
 5. Model Evaluation.
 6. Bibliography.
 
-Link for yfinance package:
+### Programming Language
+* Python 
+
+##### Link for yfinance package:
 https://pypi.org/project/yfinance/ .
