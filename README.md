@@ -15,5 +15,5 @@ data. For this project we Extracted Stock data from Yahoo Finance using Python p
 ### Programming Language
 * Python 
 
-##### Link for yfinance package:
+Link for yfinance package:
 https://pypi.org/project/yfinance/ .
